@@ -1,0 +1,11 @@
+Name        : dikshant   
+Email       : sidhartbhatiya@gmail.com
+Phone No.   : 6386615077 
+Bill No.    : 6          
+
+PROD-NAME     QTY.    U_AMT     AMT.
+Pen              5       10       50
+Pencil           5        5       25
+Eraser          20        5      100
+------------------------------------
+               TOTAL AMOUNT====> 175
